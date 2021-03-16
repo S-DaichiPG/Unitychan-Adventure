@@ -4,6 +4,10 @@
 * HaruPurkon2019.exeを実行することでプレイ可能
 * Graphics qualityはHigh以上を推奨（Highより下だとプレイヤーが高速移動してしまう）
 
+### 画面イメージ
+<img src="https://user-images.githubusercontent.com/55573165/111335284-9ad94700-86b7-11eb-97bb-656e621c7e5c.png" width="800">
+
+
 ### バグ情報
 * スペースキーを押しても反応しない
 * 画面サイズ変更によるUIの表示がずれる
