@@ -1,7 +1,7 @@
 # Unitychan-Adventure
 
 * 画面サイズは1920×1080
-* Graphics qualityはHigh以上を推奨（Highより下だとプレイヤーが高速移動してしまう）
+* Graphics qualityはHigh以上を推奨（Highより下だとプレイヤーが高速移動する）
 * ゲームBGM、効果音が大きめなので注意
 
 ### ダウンロード、プレイ方法等
