@@ -23,5 +23,16 @@
 ### アイテム
 * 妖精をGETすると体力が少し回復する
 
+//////////////////////////////////////////////////////////////////////////
+### 使用させていただいた素材
+*『コーゲンシティ・オールスターズ！』ユニティちゃんピクセルアートパック for アクションゲーム Vol.2　http://unity-chan.com/download/index.php
+
+* 梅干しフォント http://font.xxenxx.net/umeboshifont.html
+
+* 敵キャラクター等：　ぴぽや倉庫  https://pipoya.net/sozai/
+                             ヌー@ドット絵置き場  http://damagedgold.wp.xdomain.jp/
+![image](https://user-images.githubusercontent.com/88474670/225732360-3b59604e-0857-4b47-af31-0012be025bee.png)
+
+
 ### 改善点
 * 画面サイズ変更によるUIの表示ずれを直したい
