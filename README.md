@@ -5,6 +5,7 @@
 * ゲームBGM、効果音が大きめなので注意
 
 ### ダウンロード、プレイ方法等
+![image](https://user-images.githubusercontent.com/88474670/225761150-dd98c2fa-032d-4374-9ccc-fb590913c56d.png)
 * zipファイルをダウンロードして展開
 * ファイル内のHaruPurkon2019.exeを実行することでプレイ可能
 * ゲームを途中で終了したい時は __Altキー+F4キー__ を押すと終了
