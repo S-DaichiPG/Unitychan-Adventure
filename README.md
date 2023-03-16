@@ -23,15 +23,22 @@
 ### アイテム
 * 妖精をGETすると体力が少し回復する
 
-//////////////////////////////////////////////////////////////////////////
 ### 使用させていただいた素材
+「キャラクター系」
 *『コーゲンシティ・オールスターズ！』ユニティちゃんピクセルアートパック for アクションゲーム Vol.2　
 http://unity-chan.com/download/index.php
 
-* 梅干しフォント http://font.xxenxx.net/umeboshifont.html
-
 * 敵キャラクター等：　ぴぽや倉庫  https://pipoya.net/sozai/
                       ヌー@ドット絵置き場  http://damagedgold.wp.xdomain.jp/
+「BGM、効果音」
+* 魔王魂(フリー効果音) https://maoudamashii.jokersounds.com/music_se.html
+
+* くらげ工匠(フリー効果音) http://www.kurage-kosho.info/
+
+* 甘茶の音楽工房(フリーBGM) http://amachamusic.chagasi.com/
+
+「フォント」
+* 梅干しフォント http://font.xxenxx.net/umeboshifont.html
 
 
 ### 改善点
